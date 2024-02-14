@@ -10,7 +10,7 @@
 |Goals|AWS Cloud Practitioner|
 
 ## Jokes
-- ⚡ C# is just 
+- ⚡ C# is actually <br/>
 ![Joke](/assets/joke.png)
 
 ## Credits
