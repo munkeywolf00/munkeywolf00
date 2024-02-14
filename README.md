@@ -1,10 +1,12 @@
 # Hello, I'm David! 👋
 ![LinkedIn Badge](https://img.shields.io/badge/-davidvancativo-blue?style=flat&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavidvancativo%2F)
 
+**Just a dude with glasses.**
 
 |What|Techs|
 |-|-|
-|Main|![Laravel](/assets/laravel.svg) ![Vue](/assets/vue.svg) ![MySQL](/assets/mysql.svg) ![PHP](/assets/php.svg) ![JavaScript](/assets/javascript.svg) ![HTML](/assets/html.svg) ![CSS](/assets/css.svg) ![Git](/assets/git.svg) ![WordPress](/assets/wordpress.svg)|
+|Main|![Laravel](/assets/laravel.svg) ![Vue](/assets/vue.svg) ![MySQL](/assets/mysql.svg) ![PHP](/assets/php.svg) ![JavaScript](/assets/javascript.svg) ![HTML](/assets/html.svg) ![CSS](/assets/css.svg) ![Git](/assets/git.svg)|
+|Learned for work|![WordPress](/assets/wordpress.svg) ![Stored Procedure](https://img.shields.io/badge/-Stored%20Procedure-blue)|
 |Self study|![Tailwind CSS](/assets/tailwind.svg) ![TypeScript](/assets/typescript.svg) ![Vite](/assets/vite.svg)|
 |UI|![Element UI](/assets/element.svg)|
 |Goals|AWS Cloud Practitioner|
